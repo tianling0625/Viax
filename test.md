@@ -1,5 +1,7 @@
 ##201801-CS300-聊天机器人workshop-王天宇-课前自测
 
+####第一个题目不是特别懂， 另外在R里面可以直接显示程序执行的结果， 不知道Python有没有类似的……
+
 ###Problem A:
 ```{python}
 class Robot(object):
